@@ -1,0 +1,14 @@
+.head{
+    text-align: center;
+    color: darkgreen;
+}
+.column{
+    float: left;
+    width: 33.3%;
+}
+.img{
+    border-radius: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
