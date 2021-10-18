@@ -17,3 +17,12 @@
     font-size: 20px;
     font-style: italic;
 }
+body{
+    font-family: sans-serif;
+    background-color: wheat;
+}
+@media screen and (max-width: 700px) {
+    .column {
+      width: 100%;
+    }
+  }
