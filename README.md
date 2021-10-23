@@ -1,21 +1,19 @@
 # moringa-ip-week-one
-My First Web Page
-My Projects at moringa school, 13.10.2021
-By Jimmy Njuguna kiarie
-Description
-{This is a detailed description of your application, including its purpose and usage. Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+My First Web Page  
+My Projects at moringa school, 13.10.2021  
+By Jimmy Njuguna kiarie  
+Description  
+This is my IP for week one at Moringa school  
 
-
-
-Technologies Used
-HTML Tags to style the page
+Technologies Used  
+HTML Tags to style the page  
 CSS also used to style the formats and appearance
 
-Support and contact details
+Support and contact details  
 jimmyn.kiarie@gmail.com
 
-License
+License  
 GNU General Public License v3.0
 
-Contributor
+Contributor  
 Jimmy Njuguna Kiarie
