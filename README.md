@@ -4,7 +4,7 @@ My Projects at moringa school, 13.10.2021
 By Jimmy Njuguna kiarie  
 Description  
 This is my IP for week one at Moringa school  
-Below is the link to the website
+Below is the link to the website  
 https://jnkiarie.github.io/moringa-ip-week-one/index.html
 
 Technologies Used  
