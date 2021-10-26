@@ -6,9 +6,7 @@
 .column{
     float: left;
     width: 33.3%;
-    margin: 50px;
-    border: 2px solid red;
-    background-color: brown;
+  
 }
 .img{
     border-radius: 30%;
@@ -29,4 +27,7 @@ body{
     .column {
       width: 100%;
     }
+  }
+  div{
+      margin-bottom: auto;
   }
