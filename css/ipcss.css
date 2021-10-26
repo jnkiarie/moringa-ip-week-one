@@ -1,12 +1,10 @@
 .head{
     text-align: center;
-    color: darkgreen;
-    
+    color: darkgreen;    
 }
 .column{
     float: left;
-    width: 33.3%;
-  
+    width: 33.3%;  
 }
 .img{
     border-radius: 30%;
@@ -29,5 +27,5 @@ body{
     }
   }
   div{
-            padding: 20px;
+            padding: 10px;
   }
