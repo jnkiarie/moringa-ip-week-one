@@ -1,12 +1,13 @@
 .head{
     text-align: center;
     color: darkgreen;
-    margin: 20px;
+    
 }
 .column{
     float: left;
     width: 33.3%;
-    
+    margin: 50px;
+    border: 2px solid red;
 }
 .img{
     border-radius: 30%;
